@@ -1,0 +1,26 @@
+input:focus-visible{
+    outline: 0;
+}
+.demo{
+    padding: 290px 0 235px;
+    margin-bottom: 0px;
+}
+.banner{
+    background-image: url(../img/common-banner.png);
+    padding: 200px 0;
+    background-repeat: no-repeat;
+}
+.banner-links a{
+    color: #FFF;
+    font-size: 14px;
+    text-transform: capitalize;
+    padding: 0 2px;
+}
+.banner-title{
+    color: #FFF;
+    font-size: 36px;
+    font-family: "Rajdhani", sans-serif;
+    margin-bottom: 0px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
